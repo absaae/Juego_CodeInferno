@@ -1,0 +1,36 @@
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Archivos de compilación y ejecutables
+*.apk
+*.aab
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+*.unitypackage
+
+# Archivos generados por Unity
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.userprefs
+
+# IDEs
+.vscode/
+.vs/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
